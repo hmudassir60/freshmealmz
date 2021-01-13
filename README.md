@@ -4,7 +4,7 @@ When you need any other templet for website please visit my portfolio:
 ![Restaurant_website](https://mudassirhussainportfolio.blogspot.com/)
 
 
-#### Demo: https://github.com/hmudassir60/freshmealshop.git
+#### Demo: https://github.com/hmudassir60/freshmealmz
 
 
 🙏 If you find this repo helpful then don't forget to give a start ❇️  to this repository. :)
